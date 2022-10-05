@@ -1,0 +1,7 @@
+a=set()
+a.add(6)
+a.add("hi")
+a.add(9)
+a.add(3)
+print(a)
+print(type(a))
